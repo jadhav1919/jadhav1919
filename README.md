@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jadhav Sai 👋</h1>
 
 <p align="center">
-  <b>4th Year CS Student &nbsp;|&nbsp; Aspiring Penetration Tester &nbsp;|&nbsp; Red Teamer in Progress</b>
+  <b>B.Tech — Computer Science & Engineering (Specialisation in Cyber Security) &nbsp;|&nbsp; Aspiring Penetration Tester &nbsp;|&nbsp; Red Teamer in Progress</b>
 </p>
 
 <p align="center">
@@ -13,10 +13,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-jadhavsai097-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://bugcrowd.com/h/JadhavSai">
-    <img src="https://img.shields.io/badge/Bugcrowd-JadhavSai-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  </a>
-  &nbsp;
+
   <a href="https://github.com/jadhav1919">
     <img src="https://img.shields.io/badge/GitHub-jadhav1919-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -78,9 +75,9 @@
 
 ---
 
-### 🐛 Bug Bounty — [Bugcrowd Profile](https://bugcrowd.com/h/JadhavSai)
+### 🐛 Bug Bounty — Practice & Learning
 
-- Findings: **IDOR, CORS misconfiguration, missing security headers, path traversal** — all with structured reproduction steps
+- Practicing bug bounty methodology: IDOR, CORS misconfiguration, missing security headers, path traversal — with structured reproduction steps
 - PortSwigger: SQLi (all 18 beginner labs), XSS, IDOR, SSRF — intercepted and modified with Burp Suite
 - DVWA exploitation at LOW / MEDIUM / HIGH security: SQL injection, XSS, CSRF, file upload, command injection
 
