@@ -83,6 +83,43 @@
 
 ---
 
+## 🎓 Certifications — TryHackMe Learning Paths
+
+### 🛡️ Pre Security
+
+- **Platform:** TryHackMe
+- **Certification:** Pre Security Learning Path
+- **Completion Date:** 9 June 2026
+- **Course Duration:** 19 hours 10 minutes
+- **Certificate ID:** `THM-ZURCDA2C5H`
+
+<details>
+<summary>View Certificate</summary>
+
+![TryHackMe Pre Security Certificate](certificates/THM-ZURCDA2C5H%20(1)-1.png)
+
+</details>
+
+---
+
+### 🔐 Cyber Security 101
+
+- **Platform:** TryHackMe
+- **Certification:** Cyber Security 101 Learning Path
+- **Completion Date:** 24 July 2026
+- **Course Duration:** 45 hours 23 minutes
+- **Certificate ID:** `THM-W7U0UYPL08`
+
+<details>
+<summary>View Certificate</summary>
+
+![TryHackMe Cyber Security 101 Certificate](certificates/THM-W7U0UYPL08%20(1)-1.png)
+
+</details>
+
+---
+
+
 ## 🧪 Practical Notes — Ethical Hacking Labs
 
 | Repository | What's Inside |
